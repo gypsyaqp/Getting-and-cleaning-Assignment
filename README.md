@@ -2,6 +2,7 @@
 #Project Getting and Cleaning Coursera
 
 The files were downloded in the directory: getdata%2Fprojectfiles%2FUCI HAR Dataset , in the default working directory
+The description of the variables and observations in the original Readme.txt are following for this project,
 
 dplyr is loaded in the first line of the script
 
